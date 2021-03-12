@@ -1,0 +1,24 @@
+{
+  "visitors":[
+    {
+      "id": 1,
+      "receivedAnOrder": false,
+      "preOrder": false
+    },
+    {
+      "id": 2,
+      "receivedAnOrder": false,
+      "preOrder": false
+    },
+    {
+      "id": 3,
+      "receivedAnOrder": false,
+      "preOrder": false
+    },
+    {
+      "id": 4,
+      "receivedAnOrder": false,
+      "preOrder": true
+    }
+  ]
+}
